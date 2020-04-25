@@ -16,6 +16,7 @@ import com.diju.dictdemo.MainActivity;
 import com.diju.dictdemo.R;
 import com.diju.dictdemo.dict.model.Dict;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import static com.diju.dictdemo.dict.CityListLoader.BUNDATA;
@@ -29,7 +30,8 @@ public class ProvinceActivity  extends Activity {
 
     public static final int RESULT_DATA = 1001;
 
-    private Dict dictBean = new Dict();
+    private Dict dictBean = null;
+    private List<Dict> dictList=null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,10 +42,16 @@ public class ProvinceActivity  extends Activity {
     }
 
     private void setData() {
+        dictBean = this.getIntent().getParcelableExtra(BUNDATA);
+        if(dictBean == null){
+            dictList = CityListLoader.getInstance().getDictListData();
+            btn_back.setVisibility(View.INVISIBLE);
+        }else {
+            dictList = new ArrayList<>(dictBean.getSubDictList());
+            btn_back.setVisibility(View.VISIBLE);
+        }
 
-
-        final List<Dict> dictList = CityListLoader.getInstance().getDictListData();
-        if (dictList == null) {
+        if (dictList == null || dictList.size() < 1) {
             return;
         }
 
@@ -53,9 +61,10 @@ public class ProvinceActivity  extends Activity {
             @Override
             public void onItemSelected(View view, int position) {
 
-                dictBean.setDictKey(dictList.get(position).getDictKey());
-                dictBean.setDictValue(dictList.get(position).getDictValue());
-                Intent intent = new Intent(ProvinceActivity.this, CityActivity.class);
+                dictBean = dictList.get(position);
+//                dictBean.setDictKey(dictList.get(position).getDictKey());
+//                dictBean.setDictValue(dictList.get(position).getDictValue());
+                Intent intent = new Intent(ProvinceActivity.this, ProvinceActivity.class);
                 intent.putExtra(BUNDATA, (Parcelable) dictList.get(position));
 
                 startActivityForResult(intent, RESULT_DATA);
@@ -79,6 +88,7 @@ public class ProvinceActivity  extends Activity {
         btn_back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                finish();
                 Toast.makeText(getApplicationContext(),"ya",Toast.LENGTH_SHORT).show();
             }
         });
