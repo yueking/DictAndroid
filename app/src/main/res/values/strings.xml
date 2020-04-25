@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dictDemo</string>
+    <string name="icon_plus_circle">&#xf055;</string>
+    <string name="icon_chevron_left">\u0020\u0020\u0020\u0020&#xf053;</string>
+</resources>

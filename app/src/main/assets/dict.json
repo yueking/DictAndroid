@@ -1,0 +1,6044 @@
+{
+  "dictValue": "案件类别代码",
+  "subDictList": [
+    {
+      "dictValue": "危害公共安全案",
+      "subDictList": [
+        {
+          "dictValue": "以危险方法危害公共安全案",
+          "subDictList": [
+            {
+              "dictValue": "投毒案",
+              "subDictList": [],
+              "parentKey": "020100",
+              "level": 1,
+              "root": false,
+              "dictKey": "020104",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "失火案",
+              "subDictList": [],
+              "parentKey": "020100",
+              "level": 1,
+              "root": false,
+              "dictKey": "020111",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失投毒案",
+              "subDictList": [],
+              "parentKey": "020100",
+              "level": 1,
+              "root": false,
+              "dictKey": "020114",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失以其他危险方法危害公共安全案",
+              "subDictList": [],
+              "parentKey": "020100",
+              "level": 1,
+              "root": false,
+              "dictKey": "020119",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "以其他危险方法危害公共安全案",
+              "subDictList": [],
+              "parentKey": "020100",
+              "level": 1,
+              "root": false,
+              "dictKey": "020109",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "决水案",
+              "subDictList": [],
+              "parentKey": "020100",
+              "level": 1,
+              "root": false,
+              "dictKey": "020102",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失爆炸案",
+              "subDictList": [],
+              "parentKey": "020100",
+              "level": 1,
+              "root": false,
+              "dictKey": "020113",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失决水案",
+              "subDictList": [],
+              "parentKey": "020100",
+              "level": 1,
+              "root": false,
+              "dictKey": "020112",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "放火案",
+              "subDictList": [],
+              "parentKey": "020100",
+              "level": 1,
+              "root": false,
+              "dictKey": "020101",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "爆炸案",
+              "subDictList": [],
+              "parentKey": "020100",
+              "level": 1,
+              "root": false,
+              "dictKey": "020103",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "020000",
+          "level": 1,
+          "root": false,
+          "dictKey": "020100",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "违反危险物品管理案",
+          "subDictList": [
+            {
+              "dictValue": "非法携带危险品危及公共安全案",
+              "subDictList": [],
+              "parentKey": "020600",
+              "level": 1,
+              "root": false,
+              "dictKey": "020602",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法携带管制刀具危及公共安全案",
+              "subDictList": [],
+              "parentKey": "020600",
+              "level": 1,
+              "root": false,
+              "dictKey": "020601",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "020000",
+          "level": 1,
+          "root": false,
+          "dictKey": "020600",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "实施恐怖、劫持案",
+          "subDictList": [
+            {
+              "dictValue": "劫持航空器案",
+              "subDictList": [],
+              "parentKey": "020300",
+              "level": 1,
+              "root": false,
+              "dictKey": "020311",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "劫持汽车案",
+              "subDictList": [],
+              "parentKey": "020300",
+              "level": 1,
+              "root": false,
+              "dictKey": "020313",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "暴力危及飞行安全案",
+              "subDictList": [],
+              "parentKey": "020300",
+              "level": 1,
+              "root": false,
+              "dictKey": "020331",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "劫持船只案",
+              "subDictList": [],
+              "parentKey": "020300",
+              "level": 1,
+              "root": false,
+              "dictKey": "020312",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织、领导参加恐怖组织案",
+              "subDictList": [],
+              "parentKey": "020300",
+              "level": 1,
+              "root": false,
+              "dictKey": "020301",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "020000",
+          "level": 1,
+          "root": false,
+          "dictKey": "020300",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "盗窃、抢夺枪支、弹药、爆炸物案",
+          "subDictList": [
+            {
+              "dictValue": "抢夺枪支弹药、爆炸物案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020920",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃爆炸物案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020914",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃军、警、民兵爆炸物案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020916",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃国家机关爆炸物案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020915",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢夺军、警、民兵枪支弹药案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020923",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢夺爆炸物案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020924",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢夺国家机关爆炸物案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020925",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃枪支、弹药案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020911",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢夺国家机关枪支弹药案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020922",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃抢夺危险物品",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020927",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃枪支、弹药、爆炸物案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020910",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃国家机关枪支、弹药案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020912",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢夺军、警、民兵爆炸物案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020926",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃军、警、民兵枪支、弹药案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020913",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢夺枪支、弹药案",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020921",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫危险物品",
+              "subDictList": [],
+              "parentKey": "020900",
+              "level": 1,
+              "root": false,
+              "dictKey": "020928",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "020000",
+          "level": 1,
+          "root": false,
+          "dictKey": "020900",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "抢劫枪支、弹药、爆炸物案",
+          "subDictList": [
+            {
+              "dictValue": "抢劫军、警、民兵爆炸物案",
+              "subDictList": [],
+              "parentKey": "020800",
+              "level": 1,
+              "root": false,
+              "dictKey": "020822",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫枪支、弹药案",
+              "subDictList": [],
+              "parentKey": "020800",
+              "level": 1,
+              "root": false,
+              "dictKey": "020810",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫爆炸物案",
+              "subDictList": [],
+              "parentKey": "020800",
+              "level": 1,
+              "root": false,
+              "dictKey": "020820",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫国家机关枪支弹药案",
+              "subDictList": [],
+              "parentKey": "020800",
+              "level": 1,
+              "root": false,
+              "dictKey": "020811",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫军、警、民兵枪支弹药案",
+              "subDictList": [],
+              "parentKey": "020800",
+              "level": 1,
+              "root": false,
+              "dictKey": "020812",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫国家机关爆炸物案",
+              "subDictList": [],
+              "parentKey": "020800",
+              "level": 1,
+              "root": false,
+              "dictKey": "020821",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "020000",
+          "level": 1,
+          "root": false,
+          "dictKey": "020800",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "其他危害公共安全案",
+          "subDictList": [],
+          "parentKey": "020000",
+          "level": 1,
+          "root": false,
+          "dictKey": "029900",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "非法制造，买卖，运输，邮寄，储存枪支弹药，爆炸物案",
+          "subDictList": [
+            {
+              "dictValue": "非法买卖枪支弹药案",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020402",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法运输枪支弹药案",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020403",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法邮寄枪支弹药案",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020404",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法携带爆炸物品",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020413",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法运输爆炸物案",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020408",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法制造枪支弹药案",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020401",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法买卖爆炸物案",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020407",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法运输核材料案",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020412",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法制造爆炸物案",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020406",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法储存爆炸物案",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020410",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法买卖核材料案",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020411",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法储存枪支弹药案",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020405",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法邮寄爆炸物案",
+              "subDictList": [],
+              "parentKey": "020400",
+              "level": 1,
+              "root": false,
+              "dictKey": "020409",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "020000",
+          "level": 1,
+          "root": false,
+          "dictKey": "020400",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "违反枪支弹药管理案",
+          "subDictList": [
+            {
+              "dictValue": "企业违规制造枪支案",
+              "subDictList": [],
+              "parentKey": "020500",
+              "level": 1,
+              "root": false,
+              "dictKey": "020501",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法持有枪支弹药案",
+              "subDictList": [],
+              "parentKey": "020500",
+              "level": 1,
+              "root": false,
+              "dictKey": "020511",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法携带枪支弹药危及公共安全案",
+              "subDictList": [],
+              "parentKey": "020500",
+              "level": 1,
+              "root": false,
+              "dictKey": "020541",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法出租枪支案",
+              "subDictList": [],
+              "parentKey": "020500",
+              "level": 1,
+              "root": false,
+              "dictKey": "020522",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "企业违规销售枪支案",
+              "subDictList": [],
+              "parentKey": "020500",
+              "level": 1,
+              "root": false,
+              "dictKey": "020502",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法出借枪支案",
+              "subDictList": [],
+              "parentKey": "020500",
+              "level": 1,
+              "root": false,
+              "dictKey": "020521",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "丢失枪支不报案",
+              "subDictList": [],
+              "parentKey": "020500",
+              "level": 1,
+              "root": false,
+              "dictKey": "020531",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法私藏枪支弹药案",
+              "subDictList": [],
+              "parentKey": "020500",
+              "level": 1,
+              "root": false,
+              "dictKey": "020512",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "020000",
+          "level": 1,
+          "root": false,
+          "dictKey": "020500",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "重大责任事故案",
+          "subDictList": [
+            {
+              "dictValue": "教育设施重大安全事故案",
+              "subDictList": [],
+              "parentKey": "020700",
+              "level": 1,
+              "root": false,
+              "dictKey": "020714",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "重大劳动安全事故案",
+              "subDictList": [],
+              "parentKey": "020700",
+              "level": 1,
+              "root": false,
+              "dictKey": "020711",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "交通肇事案",
+              "subDictList": [],
+              "parentKey": "020700",
+              "level": 1,
+              "root": false,
+              "dictKey": "020703",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "铁路运营安全事故案",
+              "subDictList": [],
+              "parentKey": "020700",
+              "level": 1,
+              "root": false,
+              "dictKey": "020702",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "危险物品肇事案",
+              "subDictList": [],
+              "parentKey": "020700",
+              "level": 1,
+              "root": false,
+              "dictKey": "020712",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "工程重大安全事故案",
+              "subDictList": [],
+              "parentKey": "020700",
+              "level": 1,
+              "root": false,
+              "dictKey": "020713",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "重大飞行事故案",
+              "subDictList": [],
+              "parentKey": "020700",
+              "level": 1,
+              "root": false,
+              "dictKey": "020701",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "消防责任事故案",
+              "subDictList": [],
+              "parentKey": "020700",
+              "level": 1,
+              "root": false,
+              "dictKey": "020715",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "020000",
+          "level": 1,
+          "root": false,
+          "dictKey": "020700",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "危害交通运输、公用设备安全案",
+          "subDictList": [
+            {
+              "dictValue": "破坏广播电视设施案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020206",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失损坏交通设施案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020222",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏易燃易爆设备案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020205",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失损坏电力设备案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020223",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失损坏交通工具案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020221",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏交通工具案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020201",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失损坏公用电信设施案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020227",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏公用电信设施案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020207",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏交通设施案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020202",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失损坏广播电视设施案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020226",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏电力设备案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020203",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏燃气设备案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020204",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失损坏燃气设备案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020224",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失损坏易燃易爆设备案",
+              "subDictList": [],
+              "parentKey": "020200",
+              "level": 1,
+              "root": false,
+              "dictKey": "020225",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "020000",
+          "level": 1,
+          "root": false,
+          "dictKey": "020200",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        }
+      ],
+      "parentKey": "AJLBDM",
+      "level": 1,
+      "root": false,
+      "dictKey": "020000",
+      "dictType": "AJLBDM",
+      "parentType": "AJLBDM"
+    },
+    {
+      "dictValue": "危害国家安全案",
+      "subDictList": [
+        {
+          "dictValue": "其他危害国家安全案",
+          "subDictList": [],
+          "parentKey": "010000",
+          "level": 1,
+          "root": false,
+          "dictKey": "019900",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "为境外窃取、刺探、收买、非法提供国家秘密情报案",
+          "subDictList": [
+            {
+              "dictValue": "为境外刺探国家秘密情报案",
+              "subDictList": [],
+              "parentKey": "010400",
+              "level": 1,
+              "root": false,
+              "dictKey": "010420",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "为境外收买国家秘密情报案",
+              "subDictList": [],
+              "parentKey": "010400",
+              "level": 1,
+              "root": false,
+              "dictKey": "010430",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "为境外窃取国家秘密情报案",
+              "subDictList": [],
+              "parentKey": "010400",
+              "level": 1,
+              "root": false,
+              "dictKey": "010410",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "为境外非法提供国家秘密情报案",
+              "subDictList": [],
+              "parentKey": "010400",
+              "level": 1,
+              "root": false,
+              "dictKey": "010440",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "010000",
+          "level": 1,
+          "root": false,
+          "dictKey": "010400",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "背叛、分裂国家案",
+          "subDictList": [
+            {
+              "dictValue": "资助危害国家安全犯罪活动案",
+              "subDictList": [],
+              "parentKey": "010100",
+              "level": 1,
+              "root": false,
+              "dictKey": "010180",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "武装叛乱、暴乱案",
+              "subDictList": [],
+              "parentKey": "010100",
+              "level": 1,
+              "root": false,
+              "dictKey": "010140",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "背叛国家案",
+              "subDictList": [],
+              "parentKey": "010100",
+              "level": 1,
+              "root": false,
+              "dictKey": "010110",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "煽动颠履国家政权案",
+              "subDictList": [],
+              "parentKey": "010100",
+              "level": 1,
+              "root": false,
+              "dictKey": "010170",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "煽动分裂国家案",
+              "subDictList": [],
+              "parentKey": "010100",
+              "level": 1,
+              "root": false,
+              "dictKey": "010130",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "策动武装暴乱案",
+              "subDictList": [],
+              "parentKey": "010100",
+              "level": 1,
+              "root": false,
+              "dictKey": "010150",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "颠覆国家政权案",
+              "subDictList": [],
+              "parentKey": "010100",
+              "level": 1,
+              "root": false,
+              "dictKey": "010160",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "分裂国家案",
+              "subDictList": [],
+              "parentKey": "010100",
+              "level": 1,
+              "root": false,
+              "dictKey": "010120",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "010000",
+          "level": 1,
+          "root": false,
+          "dictKey": "010100",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "叛变、叛逃案",
+          "subDictList": [
+            {
+              "dictValue": "投敌叛变案",
+              "subDictList": [],
+              "parentKey": "010200",
+              "level": 1,
+              "root": false,
+              "dictKey": "010210",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "叛逃案",
+              "subDictList": [],
+              "parentKey": "010200",
+              "level": 1,
+              "root": false,
+              "dictKey": "010220",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "010000",
+          "level": 1,
+          "root": false,
+          "dictKey": "010200",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "间谍、资敌案",
+          "subDictList": [
+            {
+              "dictValue": "资敌案",
+              "subDictList": [],
+              "parentKey": "010300",
+              "level": 1,
+              "root": false,
+              "dictKey": "010320",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "间谍案",
+              "subDictList": [],
+              "parentKey": "010300",
+              "level": 1,
+              "root": false,
+              "dictKey": "010310",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "010000",
+          "level": 1,
+          "root": false,
+          "dictKey": "010300",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        }
+      ],
+      "parentKey": "AJLBDM",
+      "level": 1,
+      "root": false,
+      "dictKey": "010000",
+      "dictType": "AJLBDM",
+      "parentType": "AJLBDM"
+    },
+    {
+      "dictValue": "侵犯财产案",
+      "subDictList": [
+        {
+          "dictValue": "侵占案",
+          "subDictList": [],
+          "parentKey": "050000",
+          "level": 1,
+          "root": false,
+          "dictKey": "050500",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "故意毁坏财物案",
+          "subDictList": [],
+          "parentKey": "050000",
+          "level": 1,
+          "root": false,
+          "dictKey": "050900",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "其他侵犯财产案",
+          "subDictList": [],
+          "parentKey": "050000",
+          "level": 1,
+          "root": false,
+          "dictKey": "059000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "职务侵占案",
+          "subDictList": [],
+          "parentKey": "050000",
+          "level": 1,
+          "root": false,
+          "dictKey": "050600",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "抢劫案",
+          "subDictList": [
+            {
+              "dictValue": "抢劫提（送）款员案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050112",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "在公共交通工具上抢劫案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050103",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "入户抢劫案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050101",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫珠宝店案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050111",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫抢险、救灾、救济物资案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050131",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫银行或其他金融机构案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050110",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫出租汽车案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050120",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "冒充军警持枪抢劫案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050150",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫牲畜案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050132",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫运钞车案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050113",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫精神药物和麻醉药品案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050140",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "持枪抢劫案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050160",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "拦路抢劫案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050102",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢劫军用物资案",
+              "subDictList": [],
+              "parentKey": "050100",
+              "level": 1,
+              "root": false,
+              "dictKey": "050130",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "050000",
+          "level": 1,
+          "root": false,
+          "dictKey": "050100",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "挪用特定款物案",
+          "subDictList": [
+            {
+              "dictValue": "挪用扶贫、移民救济款物案",
+              "subDictList": [],
+              "parentKey": "050700",
+              "level": 1,
+              "root": false,
+              "dictKey": "050750",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "挪用公款案",
+              "subDictList": [],
+              "parentKey": "050700",
+              "level": 1,
+              "root": false,
+              "dictKey": "050720",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "挪用资金案",
+              "subDictList": [],
+              "parentKey": "050700",
+              "level": 1,
+              "root": false,
+              "dictKey": "050710",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "挪用优抚款物案",
+              "subDictList": [],
+              "parentKey": "050700",
+              "level": 1,
+              "root": false,
+              "dictKey": "050740",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "挪用救灾、抢险、防汛款物案",
+              "subDictList": [],
+              "parentKey": "050700",
+              "level": 1,
+              "root": false,
+              "dictKey": "050730",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "050000",
+          "level": 1,
+          "root": false,
+          "dictKey": "050700",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "敲诈勒索案",
+          "subDictList": [],
+          "parentKey": "050000",
+          "level": 1,
+          "root": false,
+          "dictKey": "050800",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "聚众哄抢案",
+          "subDictList": [],
+          "parentKey": "050000",
+          "level": 1,
+          "root": false,
+          "dictKey": "051100",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "诈骗案",
+          "subDictList": [],
+          "parentKey": "050000",
+          "level": 1,
+          "root": false,
+          "dictKey": "050300",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "破坏生产经营案",
+          "subDictList": [],
+          "parentKey": "050000",
+          "level": 1,
+          "root": false,
+          "dictKey": "051000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "盗窃案",
+          "subDictList": [
+            {
+              "dictValue": "盗窃车内财物案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050225",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃电缆线案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050234",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃路财案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050222",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃自行车案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050227",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃电动自行车案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050228",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "扒窃案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050240",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃运输物资案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050210",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃旅财案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050221",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "入室盗窃案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050201",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃珍贵文物案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050212",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃摩托车案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050224",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "其他盗窃案件",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050248",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗接通信线路案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050236",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃牲畜案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050237",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃货物案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050220",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃铁路器材案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050211",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃保险柜案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050230",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃易制毒化学品案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050203",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃电脑芯片案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050216",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗用他人通讯设施案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050235",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃金融机构案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050204",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃精神药物和麻醉药品案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050202",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃汽车案",
+              "subDictList": [],
+              "parentKey": "050200",
+              "level": 1,
+              "root": false,
+              "dictKey": "050223",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "050000",
+          "level": 1,
+          "root": false,
+          "dictKey": "050200",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "抢夺案",
+          "subDictList": [],
+          "parentKey": "050000",
+          "level": 1,
+          "root": false,
+          "dictKey": "050400",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        }
+      ],
+      "parentKey": "AJLBDM",
+      "level": 1,
+      "root": false,
+      "dictKey": "050000",
+      "dictType": "AJLBDM",
+      "parentType": "AJLBDM"
+    },
+    {
+      "dictValue": "渎职案",
+      "subDictList": [],
+      "parentKey": "AJLBDM",
+      "level": 1,
+      "root": false,
+      "dictKey": "090000",
+      "dictType": "AJLBDM",
+      "parentType": "AJLBDM"
+    },
+    {
+      "dictValue": "非正常死亡案（事）件",
+      "subDictList": [
+        {
+          "dictValue": "猝死",
+          "subDictList": [],
+          "parentKey": "110000",
+          "level": 1,
+          "root": false,
+          "dictKey": "111002",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "溺水死",
+          "subDictList": [],
+          "parentKey": "110000",
+          "level": 1,
+          "root": false,
+          "dictKey": "114000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "中毒死",
+          "subDictList": [],
+          "parentKey": "110000",
+          "level": 1,
+          "root": false,
+          "dictKey": "111000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "缢死",
+          "subDictList": [],
+          "parentKey": "110000",
+          "level": 1,
+          "root": false,
+          "dictKey": "112000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "割脉死",
+          "subDictList": [],
+          "parentKey": "110000",
+          "level": 1,
+          "root": false,
+          "dictKey": "115000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "烧死",
+          "subDictList": [],
+          "parentKey": "110000",
+          "level": 1,
+          "root": false,
+          "dictKey": "118000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "高坠死",
+          "subDictList": [],
+          "parentKey": "110000",
+          "level": 1,
+          "root": false,
+          "dictKey": "113000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "其他",
+          "subDictList": [],
+          "parentKey": "110000",
+          "level": 1,
+          "root": false,
+          "dictKey": "119000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "电击死",
+          "subDictList": [],
+          "parentKey": "110000",
+          "level": 1,
+          "root": false,
+          "dictKey": "116000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "病死",
+          "subDictList": [],
+          "parentKey": "110000",
+          "level": 1,
+          "root": false,
+          "dictKey": "111001",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "注射死",
+          "subDictList": [],
+          "parentKey": "110000",
+          "level": 1,
+          "root": false,
+          "dictKey": "117000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        }
+      ],
+      "parentKey": "AJLBDM",
+      "level": 1,
+      "root": false,
+      "dictKey": "110000",
+      "dictType": "AJLBDM",
+      "parentType": "AJLBDM"
+    },
+    {
+      "dictValue": "破坏社会主义市场经济秩序案",
+      "subDictList": [
+        {
+          "dictValue": "其他破坏社会主义市场经济秩序案",
+          "subDictList": [],
+          "parentKey": "030000",
+          "level": 1,
+          "root": false,
+          "dictKey": "039900",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "妨害对公司、企业管理秩序案",
+          "subDictList": [
+            {
+              "dictValue": "签订、履行合同失职被骗案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030361",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "徇私舞弊低价折股国有资产案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030373",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "国有公司、企业、事业单位人员失职、滥用职权",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030340",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "欺诈发行股票案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030321",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "公司、企业人员受贿案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030341",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "虚报注册资本案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030301",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抽资出逃案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030312",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "对公司、企业人员行贿案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030342",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法经营同类营业案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030351",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "虚假出资案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030311",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "徇私舞弊造成亏损案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030372",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "为亲友非法牟利案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030352",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "徇私舞弊造成破产案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030371",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "提供虚假财会报告案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030331",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "徇私舞弊低价出售国有资产案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030374",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "欺诈发行债券案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030322",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "妨害清算案",
+              "subDictList": [],
+              "parentKey": "030300",
+              "level": 1,
+              "root": false,
+              "dictKey": "030332",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "030000",
+          "level": 1,
+          "root": false,
+          "dictKey": "030300",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "走私案",
+          "subDictList": [
+            {
+              "dictValue": "走私核材料案",
+              "subDictList": [],
+              "parentKey": "030200",
+              "level": 1,
+              "root": false,
+              "dictKey": "030210",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私贵重金属案",
+              "subDictList": [],
+              "parentKey": "030200",
+              "level": 1,
+              "root": false,
+              "dictKey": "030240",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私黄金案",
+              "subDictList": [],
+              "parentKey": "030200",
+              "level": 1,
+              "root": false,
+              "dictKey": "030241",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私文物案",
+              "subDictList": [],
+              "parentKey": "030200",
+              "level": 1,
+              "root": false,
+              "dictKey": "030220",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私白银案",
+              "subDictList": [],
+              "parentKey": "030200",
+              "level": 1,
+              "root": false,
+              "dictKey": "030242",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私珍稀植物及其制品案",
+              "subDictList": [],
+              "parentKey": "030200",
+              "level": 1,
+              "root": false,
+              "dictKey": "030260",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私珍贵动物及其制品案",
+              "subDictList": [],
+              "parentKey": "030200",
+              "level": 1,
+              "root": false,
+              "dictKey": "030250",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私淫秽物品案",
+              "subDictList": [],
+              "parentKey": "030200",
+              "level": 1,
+              "root": false,
+              "dictKey": "030270",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私武器、弹药案",
+              "subDictList": [],
+              "parentKey": "030200",
+              "level": 1,
+              "root": false,
+              "dictKey": "030201",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私一般货物物品案",
+              "subDictList": [],
+              "parentKey": "030200",
+              "level": 1,
+              "root": false,
+              "dictKey": "030280",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私假币案",
+              "subDictList": [],
+              "parentKey": "030200",
+              "level": 1,
+              "root": false,
+              "dictKey": "030230",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私固体废物案",
+              "subDictList": [],
+              "parentKey": "030200",
+              "level": 1,
+              "root": false,
+              "dictKey": "030290",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "030000",
+          "level": 1,
+          "root": false,
+          "dictKey": "030200",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "金融诈骗案",
+          "subDictList": [
+            {
+              "dictValue": "信用证诈骗案",
+              "subDictList": [],
+              "parentKey": "030500",
+              "level": 1,
+              "root": false,
+              "dictKey": "030550",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "集资诈骗案",
+              "subDictList": [],
+              "parentKey": "030500",
+              "level": 1,
+              "root": false,
+              "dictKey": "030510",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "保险诈骗案",
+              "subDictList": [],
+              "parentKey": "030500",
+              "level": 1,
+              "root": false,
+              "dictKey": "030580",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "贷款诈骗案",
+              "subDictList": [],
+              "parentKey": "030500",
+              "level": 1,
+              "root": false,
+              "dictKey": "030520",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "信用卡诈骗案",
+              "subDictList": [],
+              "parentKey": "030500",
+              "level": 1,
+              "root": false,
+              "dictKey": "030560",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "有价证券诈骗案",
+              "subDictList": [],
+              "parentKey": "030500",
+              "level": 1,
+              "root": false,
+              "dictKey": "030570",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "票据诈骗案",
+              "subDictList": [],
+              "parentKey": "030500",
+              "level": 1,
+              "root": false,
+              "dictKey": "030530",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "金融凭证诈骗案",
+              "subDictList": [],
+              "parentKey": "030500",
+              "level": 1,
+              "root": false,
+              "dictKey": "030540",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "030000",
+          "level": 1,
+          "root": false,
+          "dictKey": "030500",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "危害税收征管案",
+          "subDictList": [
+            {
+              "dictValue": "出售非法制造的发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030641",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法出售发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030661",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃增值税专用发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030662",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法购买增值税专用发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030622",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "偷税案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030601",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法出售用于骗取出口退税、抵扣税款发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030651",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法制造发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030633",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抗税案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030602",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "虚开增值税专用发票用于骗取出口退税、抵扣税款发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030611",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造增值税专用发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030612",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法出售增值税专用发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030621",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "骗取出口退税案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030604",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "出售非法制造的用于骗取出口退税、抵扣税款发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030632",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "骗取国家出口免征税款案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030605",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法制造用于骗取出口退税、抵扣税款发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030631",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "逃避追缴欠税案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030603",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "购买伪造的增值税专用发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030623",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "出售伪造的增值税专用发票案",
+              "subDictList": [],
+              "parentKey": "030600",
+              "level": 1,
+              "root": false,
+              "dictKey": "030613",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "030000",
+          "level": 1,
+          "root": false,
+          "dictKey": "030600",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "破坏金融管理秩序案",
+          "subDictList": [
+            {
+              "dictValue": "金融工作人员购买假币以假币换取货币案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030421",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "持有、使用假币案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030440",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造、变造股票案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030444",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "诱骗投资者买卖证券案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030458",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法出具金融票证案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030466",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造货币案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030401",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "保险公司人员虚假理赔案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030460",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "逃汇案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030474",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "运输假币案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030420",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "用帐外客户资金非法拆借、发放贷款案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030464",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法买卖外汇案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030478",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "操纵证券交易价格案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030459",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "违法发放贷款案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030462",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "转让金融机构许可证案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030452",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "编造并传播证券交易虚假信息案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030457",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造、变造公司企业债券案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030445",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "套汇案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030475",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造、变造国家其他有价证券案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030443",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "出售假币案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030411",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造、变造金融票证案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030446",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "窃取、收买、非法提供信用卡信息案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030467",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法吸收公众存款案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030454",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "内幕交易、泄露内幕信息案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030456",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "骗汇案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030476",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造、变造、转让金融机构经营许可证案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030447",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "违法向关系人发放货款案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030463",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "购买假币案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030415",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "擅自设立金融机构案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030451",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "金融机构人员受贿案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030461",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造、变造国库券案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030442",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "变造货币案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030441",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "擅自发行股票、公司企业债券案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030455",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "高利转贷案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030453",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "洗钱案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030477",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "对违法票据承兑付款、保证案",
+              "subDictList": [],
+              "parentKey": "030400",
+              "level": 1,
+              "root": false,
+              "dictKey": "030471",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "030000",
+          "level": 1,
+          "root": false,
+          "dictKey": "030400",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "侵犯知识产权案",
+          "subDictList": [
+            {
+              "dictValue": "侵犯著作权案",
+              "subDictList": [],
+              "parentKey": "030700",
+              "level": 1,
+              "root": false,
+              "dictKey": "030760",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "假冒注册商标案",
+              "subDictList": [],
+              "parentKey": "030700",
+              "level": 1,
+              "root": false,
+              "dictKey": "030701",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "销售假冒注册商标的商品案",
+              "subDictList": [],
+              "parentKey": "030700",
+              "level": 1,
+              "root": false,
+              "dictKey": "030710",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "假冒专利案",
+              "subDictList": [],
+              "parentKey": "030700",
+              "level": 1,
+              "root": false,
+              "dictKey": "030750",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法制造的注册商标标识案",
+              "subDictList": [],
+              "parentKey": "030700",
+              "level": 1,
+              "root": false,
+              "dictKey": "030720",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "销售非法制造的注册商标标识案",
+              "subDictList": [],
+              "parentKey": "030700",
+              "level": 1,
+              "root": false,
+              "dictKey": "030740",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "侵犯商业秘密案",
+              "subDictList": [],
+              "parentKey": "030700",
+              "level": 1,
+              "root": false,
+              "dictKey": "030780",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "销售侵权复制品案",
+              "subDictList": [],
+              "parentKey": "030700",
+              "level": 1,
+              "root": false,
+              "dictKey": "030770",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法出版物案",
+              "subDictList": [],
+              "parentKey": "030700",
+              "level": 1,
+              "root": false,
+              "dictKey": "030730",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "030000",
+          "level": 1,
+          "root": false,
+          "dictKey": "030700",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "生产、销售伪劣商品(产品)案",
+          "subDictList": [
+            {
+              "dictValue": "生产、销售伪劣产品案",
+              "subDictList": [],
+              "parentKey": "030100",
+              "level": 1,
+              "root": false,
+              "dictKey": "030101",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "生产、销售劣药案",
+              "subDictList": [],
+              "parentKey": "030100",
+              "level": 1,
+              "root": false,
+              "dictKey": "030103",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "生产、销售不符合安全标准的产品案",
+              "subDictList": [],
+              "parentKey": "030100",
+              "level": 1,
+              "root": false,
+              "dictKey": "030151",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "生产、销售有毒、有害食品案",
+              "subDictList": [],
+              "parentKey": "030100",
+              "level": 1,
+              "root": false,
+              "dictKey": "030132",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "生产、销售伪劣农药案",
+              "subDictList": [],
+              "parentKey": "030100",
+              "level": 1,
+              "root": false,
+              "dictKey": "030105",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "生产销售伪劣化肥案",
+              "subDictList": [],
+              "parentKey": "030100",
+              "level": 1,
+              "root": false,
+              "dictKey": "030111",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "生产、销售不符合卫生标准的食品案",
+              "subDictList": [],
+              "parentKey": "030100",
+              "level": 1,
+              "root": false,
+              "dictKey": "030131",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "生产、销售不符合标准的医用器材案",
+              "subDictList": [],
+              "parentKey": "030100",
+              "level": 1,
+              "root": false,
+              "dictKey": "030141",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "生产、销售假药案",
+              "subDictList": [],
+              "parentKey": "030100",
+              "level": 1,
+              "root": false,
+              "dictKey": "030102",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "生产销售不符合卫生标准的化妆品案",
+              "subDictList": [],
+              "parentKey": "030100",
+              "level": 1,
+              "root": false,
+              "dictKey": "030161",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "生产、销售伪劣兽药案",
+              "subDictList": [],
+              "parentKey": "030100",
+              "level": 1,
+              "root": false,
+              "dictKey": "030104",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "生产销售伪劣种子案",
+              "subDictList": [],
+              "parentKey": "030100",
+              "level": 1,
+              "root": false,
+              "dictKey": "030121",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "030000",
+          "level": 1,
+          "root": false,
+          "dictKey": "030100",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "扰乱市场秩序案",
+          "subDictList": [
+            {
+              "dictValue": "非法倒卖土地使用权案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030842",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "中介组织人员提供虚假证明文件案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030851",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造其他有价票证案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030819",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "倒卖伪造车票案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030821",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "强迫交易案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030807",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法转让土地使用权案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030841",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "倒卖伪造邮票案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030823",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "逃避商检案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030861",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "虚假广告案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030803",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造车票案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030811",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造船票案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030812",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "倒卖车票案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030831",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "损害商品声誉案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030802",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "倒卖伪造其他有价票证案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030829",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造邮票案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030813",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "损害商业信誉案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030801",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法经营案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030806",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "倒卖伪造船票案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030822",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "合同诈骗案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030805",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "倒卖船票案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030832",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "串通投标案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030804",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "中介组织人员出具证明文件重大失实案",
+              "subDictList": [],
+              "parentKey": "030800",
+              "level": 1,
+              "root": false,
+              "dictKey": "030852",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "030000",
+          "level": 1,
+          "root": false,
+          "dictKey": "030800",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        }
+      ],
+      "parentKey": "AJLBDM",
+      "level": 1,
+      "root": false,
+      "dictKey": "030000",
+      "dictType": "AJLBDM",
+      "parentType": "AJLBDM"
+    },
+    {
+      "dictValue": "危害国防利益案",
+      "subDictList": [
+        {
+          "dictValue": "阻碍军事行动案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "070200",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "非法生产、买卖军用标志案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "072000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "破坏军事设施案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "070400",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "聚众扰乱军事管理区秩序案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "071100",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "战时拒绝军事征用案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "072900",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "破坏武器装备案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "070300",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "盗窃部队公文、证件、印章案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "071700",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "故意提供不合格武器装备案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "070600",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "战时拒绝、逃避军事训练案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "072200",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "战时故意提供虚假敌情案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "072400",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "聚众冲击军事禁区案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "071000",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "破坏军事通信案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "070500",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "冒充军人招摇撞骗案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "071200",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "战时窝藏逃离部队军人案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "072600",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "战时拒绝、逃避征召案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "072100",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "接送不合格兵员案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "071500",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "战时拒绝军事订货案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "072700",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "煽动军人逃离部队案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "071300",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "伪造、变造、买卖部队公文、证件、印章案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "071600",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "抢夺部队公文、证件、印章案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "071800",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "其他危害国防利益案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "079900",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "战时造谣惑众扰乱军心案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "072500",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "故意提供不合格军事设施案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "070700",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "过失提供不合格武器装备案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "070800",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "过失提供不合格军事设施案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "070900",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "雇用逃离部队军人案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "071400",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "阻碍军人执行职务案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "070100",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "战时拒绝、逃避服役案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "072300",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "战时延误军事订货案",
+          "subDictList": [],
+          "parentKey": "070000",
+          "level": 1,
+          "root": false,
+          "dictKey": "072800",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        }
+      ],
+      "parentKey": "AJLBDM",
+      "level": 1,
+      "root": false,
+      "dictKey": "070000",
+      "dictType": "AJLBDM",
+      "parentType": "AJLBDM"
+    },
+    {
+      "dictValue": "贪污贿赂案",
+      "subDictList": [],
+      "parentKey": "AJLBDM",
+      "level": 1,
+      "root": false,
+      "dictKey": "080000",
+      "dictType": "AJLBDM",
+      "parentType": "AJLBDM"
+    },
+    {
+      "dictValue": "妨害社会管理秩序案",
+      "subDictList": [
+        {
+          "dictValue": "其他妨害社会管理秩序案",
+          "subDictList": [],
+          "parentKey": "060000",
+          "level": 1,
+          "root": false,
+          "dictKey": "069900",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "扰乱公共秩序案",
+          "subDictList": [
+            {
+              "dictValue": "组织和利用会道门、邪教组织或者利用迷信奸淫妇女或诈骗钱财案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060180",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "聚众扰乱公共场所秩序案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060134",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用会道门致人死亡案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060171",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "利用计算机盗窃案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060126",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "利用计算机金融诈骗案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060125",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法使用窃照器材案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060120",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法集会、游行、示威案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060143",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用邪教组织奸淫妇女案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060183",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "参加黑社会性质组织案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060140",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃、侮辱尸体案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060196",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用邪教级诈骗钱财案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060187",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "煽动暴力抗拒法律实施案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060105",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造、变造居民身份证案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060113",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "阻碍安全机关、公安机关执行职务案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060104",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法买卖警服、警用标志、警械案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060115",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用迷信致人死亡案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060173",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用迷信奸淫妇女案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060184",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪造、变造公文、证件、印章案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060109",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "招摇撞骗案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060106",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "利用计算机挪用公款案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060128",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "扰乱无线电通讯管理秩序案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060131",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用会道门诈骗钱财案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060186",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "聚众扰乱社会秩序案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060132",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用邪教组织致人死亡案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060172",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法获取国家秘密案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060116",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "阻碍人大代表执行职务案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060102",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "聚众扰乱交通秩序案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060135",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏集会、游行、示威案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060158",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏计算机信息系统案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060122",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法生产、销售间谍专用器材案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060118",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "利用计算机实施其他犯罪案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060130",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "包庇、纵容黑社会性质组织案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060142",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用会道门奸淫妇女案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060182",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "聚众斗殴案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060136",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用迷信诈骗钱财案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060188",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织、领导黑社会性质组织案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060139",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "聚众淫乱案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060190",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "入境发展黑社会组织案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060141",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "侮辱国旗、国徽案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060160",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法持有国家绝密、机密文件、资料、物品案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060117",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "利用计算机贪污案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060127",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "寻衅滋事案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060137",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法携带爆炸物参加集会、游行、示威案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060154",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法使用窃听器材案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060119",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用迷信破坏法律实施案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060168",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "利用计算机窃取国家机密案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060129",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "赌博案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060197",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "冒充警察招摇撞骗案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060108",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "引诱未成年人聚众淫乱案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060193",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "冒充国家工作人员招摇撞骗案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060107",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法携带武器参加集会、游行、示威案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060146",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用会道门、邪教组织或者利用迷信奸淫妇女案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060181",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法携带管制刀具参加集会、游行、示威案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060150",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "聚众冲击国家机关案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060133",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗窃、抢夺公文、证件、印章案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060111",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "买卖公文、证件、印章案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060110",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏计算机信息系统数据和应用程序案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060123",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "毁灭公文、证件、印章案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060112",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法侵入计算机信息系统案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060121",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用邪教组织破坏法律实施案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060167",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "传授犯罪方法案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060138",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用会道门、邪教组织或者利用迷信破坏法律实施案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060165",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用会道门破坏法律实施案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060166",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "故意延误投递邮件案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060198",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "阻碍执行职务案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060101",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用会道门、邪教组织或者利用迷信诈骗钱财案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060185",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法生产警服、警用标志、警械案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060114",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "故意制作传播计算机破坏性程序案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060124",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织和利用会道门、邪教组织或者利用迷信致人死亡案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060170",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "阻碍红十字会依法覆行职责案",
+              "subDictList": [],
+              "parentKey": "060100",
+              "level": 1,
+              "root": false,
+              "dictKey": "060103",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "060000",
+          "level": 1,
+          "root": false,
+          "dictKey": "060100",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "危害公共卫生案",
+          "subDictList": [
+            {
+              "dictValue": "非法采集、供应血液案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060532",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法制作、供应血液制品案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060533",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法进行节育手术案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060560",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法组织卖血案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060530",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "制作、供应血液制品事故案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060535",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "医疗事故案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060540",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法行医案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060550",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "采集、供应血液事故案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060534",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "妨害国境卫生检疫案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060520",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "逃避动植物检疫案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060570",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "强迫卖血案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060531",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "妨害传染病防治案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060501",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "传染病菌种、毒种扩散案",
+              "subDictList": [],
+              "parentKey": "060500",
+              "level": 1,
+              "root": false,
+              "dictKey": "060510",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "060000",
+          "level": 1,
+          "root": false,
+          "dictKey": "060500",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "制作、复制、出版、贩卖、传播淫秽物品牟利案",
+          "subDictList": [
+            {
+              "dictValue": "出版淫秽物品案",
+              "subDictList": [],
+              "parentKey": "060900",
+              "level": 1,
+              "root": false,
+              "dictKey": "060930",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "贩卖淫秽物品案",
+              "subDictList": [],
+              "parentKey": "060900",
+              "level": 1,
+              "root": false,
+              "dictKey": "060940",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "传播淫秽物品案",
+              "subDictList": [],
+              "parentKey": "060900",
+              "level": 1,
+              "root": false,
+              "dictKey": "060949",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织播放淫秽音像制品案",
+              "subDictList": [],
+              "parentKey": "060900",
+              "level": 1,
+              "root": false,
+              "dictKey": "060970",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "复制淫秽物品案",
+              "subDictList": [],
+              "parentKey": "060900",
+              "level": 1,
+              "root": false,
+              "dictKey": "060920",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "制作淫秽物品案",
+              "subDictList": [],
+              "parentKey": "060900",
+              "level": 1,
+              "root": false,
+              "dictKey": "060910",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "提供书号出版淫秽书刊案",
+              "subDictList": [],
+              "parentKey": "060900",
+              "level": 1,
+              "root": false,
+              "dictKey": "060950",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织淫秽表演案",
+              "subDictList": [],
+              "parentKey": "060900",
+              "level": 1,
+              "root": false,
+              "dictKey": "060980",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "060000",
+          "level": 1,
+          "root": false,
+          "dictKey": "060900",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "组织、强迫、引诱、容留、介绍卖淫案",
+          "subDictList": [
+            {
+              "dictValue": "组织卖淫案",
+              "subDictList": [],
+              "parentKey": "060800",
+              "level": 1,
+              "root": false,
+              "dictKey": "060801",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "引诱幼女卖淫案",
+              "subDictList": [],
+              "parentKey": "060800",
+              "level": 1,
+              "root": false,
+              "dictKey": "060840",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "容留卖淫案",
+              "subDictList": [],
+              "parentKey": "060800",
+              "level": 1,
+              "root": false,
+              "dictKey": "060850",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "传播性病案",
+              "subDictList": [],
+              "parentKey": "060800",
+              "level": 1,
+              "root": false,
+              "dictKey": "060870",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "嫖宿幼女案",
+              "subDictList": [],
+              "parentKey": "060800",
+              "level": 1,
+              "root": false,
+              "dictKey": "060880",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "引诱卖淫案",
+              "subDictList": [],
+              "parentKey": "060800",
+              "level": 1,
+              "root": false,
+              "dictKey": "060830",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "原卖淫嫖宿案",
+              "subDictList": [],
+              "parentKey": "060800",
+              "level": 1,
+              "root": false,
+              "dictKey": "060802",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "强迫卖淫案",
+              "subDictList": [],
+              "parentKey": "060800",
+              "level": 1,
+              "root": false,
+              "dictKey": "060810",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "协助组织卖淫案",
+              "subDictList": [],
+              "parentKey": "060800",
+              "level": 1,
+              "root": false,
+              "dictKey": "060820",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "介绍卖淫案",
+              "subDictList": [],
+              "parentKey": "060800",
+              "level": 1,
+              "root": false,
+              "dictKey": "060860",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "060000",
+          "level": 1,
+          "root": false,
+          "dictKey": "060800",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "破坏环境资源保护案",
+          "subDictList": [
+            {
+              "dictValue": "非法出售珍贵、濒危野生动物及其制品案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060614",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法占用耕地案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060633",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "滥伐林木案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060623",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法收购珍贵、濒危野生动物及其制品案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060612",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "擅自进口固体废物案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060603",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "重大环境污染事故案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060601",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法捕捞水产品案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060631",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏性采矿案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060635",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法猎捕、杀害珍贵、濒危野生动物案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060611",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法处置进口固体废物案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060602",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法采伐、毁坏珍贵树木案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060621",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法采矿案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060634",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法狩猎案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060632",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法运输珍贵、濒危野生动物及其制品案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060613",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法收购盗伐、滥伐的林木案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060624",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗伐林木案",
+              "subDictList": [],
+              "parentKey": "060600",
+              "level": 1,
+              "root": false,
+              "dictKey": "060622",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "060000",
+          "level": 1,
+          "root": false,
+          "dictKey": "060600",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "妨害国（边）境管理案",
+          "subDictList": [
+            {
+              "dictValue": "破坏界碑、界桩案",
+              "subDictList": [],
+              "parentKey": "060300",
+              "level": 1,
+              "root": false,
+              "dictKey": "060370",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏永久性测量标志案",
+              "subDictList": [],
+              "parentKey": "060300",
+              "level": 1,
+              "root": false,
+              "dictKey": "060380",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "骗取出境证件案",
+              "subDictList": [],
+              "parentKey": "060300",
+              "level": 1,
+              "root": false,
+              "dictKey": "060340",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "偷越国（边）境案",
+              "subDictList": [],
+              "parentKey": "060300",
+              "level": 1,
+              "root": false,
+              "dictKey": "060310",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "出售出入境证件案",
+              "subDictList": [],
+              "parentKey": "060300",
+              "level": 1,
+              "root": false,
+              "dictKey": "060360",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "运送他人偷越国（边）境案",
+              "subDictList": [],
+              "parentKey": "060300",
+              "level": 1,
+              "root": false,
+              "dictKey": "060330",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "提供伪造、变造的出入境证件案",
+              "subDictList": [],
+              "parentKey": "060300",
+              "level": 1,
+              "root": false,
+              "dictKey": "060350",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织他人偷越国（边）境案",
+              "subDictList": [],
+              "parentKey": "060300",
+              "level": 1,
+              "root": false,
+              "dictKey": "060320",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "060000",
+          "level": 1,
+          "root": false,
+          "dictKey": "060300",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "妨害文物管理案",
+          "subDictList": [
+            {
+              "dictValue": "擅自转让国家档案案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060454",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法私赠文物藏品案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060423",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "故意损毁文物案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060401",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法出售文物藏品案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060422",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗掘古人类化石、古脊椎动物化石案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060443",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法向外国人出售珍贵文物案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060411",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "故意损毁名胜古迹案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060431",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗掘古墓葬案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060442",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "抢夺国有档案案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060451",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "窃取国有档案案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060452",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "擅自出卖国家档案案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060453",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法向外国人赠送珍贵文物案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060412",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "倒卖文物案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060421",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "盗掘古文化遗址案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060441",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失损毁文物案",
+              "subDictList": [],
+              "parentKey": "060400",
+              "level": 1,
+              "root": false,
+              "dictKey": "060402",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "060000",
+          "level": 1,
+          "root": false,
+          "dictKey": "060400",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "走私、贩卖、运输、制造毒品案",
+          "subDictList": [
+            {
+              "dictValue": "贩卖毒品案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060702",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法运输毒品原植物种苗案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060733",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法运输携带制毒物品进出境案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060736",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私制毒物品案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060722",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法持有毒品案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060710",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "欺骗他人吸毒案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060743",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "制造毒品案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060704",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "引诱、教唆、强迫他人吸毒案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060740",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "窝藏、转移、隐瞒毒品、毒赃案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060721",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法买卖制毒物品案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060730",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法种植毒品原植物案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060731",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法提供麻醉药品案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060750",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "运输毒品案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060703",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法提供精神药品案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060760",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "教唆他人吸毒案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060742",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "强迫他人吸毒案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060744",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "走私毒品案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060701",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法持有毒品原植物种苗案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060735",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "引诱他人吸毒案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060741",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法买卖毒品原植物种苗案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060732",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "容留他人吸毒案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060745",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "包庇毒品犯罪分子案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060720",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法携带毒品原植物种苗案",
+              "subDictList": [],
+              "parentKey": "060700",
+              "level": 1,
+              "root": false,
+              "dictKey": "060734",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "060000",
+          "level": 1,
+          "root": false,
+          "dictKey": "060700",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "妨害司法案",
+          "subDictList": [
+            {
+              "dictValue": "拒绝提供间谍犯罪证据案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060223",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "暴动越狱案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060255",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "司法人员毁灭、伪造证据案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060213",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "聚众持械劫狱案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060256",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "窝藏、转移、收购、销售赃物案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060224",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "扰乱法庭秩序案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060221",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "拒不执行判决、裁定案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060231",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "组织越狱案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060254",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "打击报复证人案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060215",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法处置查封、扣押、冻结财产案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060241",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "伪证案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060201",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "帮助毁灭、伪造证据案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060212",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏监管秩序案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060251",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "劫夺被押解人员案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060253",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "窝藏、包庇案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060222",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "脱逃案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060252",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "辩护人、诉讼代理人毁灭、伪造证据案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060211",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "妨害作证案",
+              "subDictList": [],
+              "parentKey": "060200",
+              "level": 1,
+              "root": false,
+              "dictKey": "060214",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "060000",
+          "level": 1,
+          "root": false,
+          "dictKey": "060200",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        }
+      ],
+      "parentKey": "AJLBDM",
+      "level": 1,
+      "root": false,
+      "dictKey": "060000",
+      "dictType": "AJLBDM",
+      "parentType": "AJLBDM"
+    },
+    {
+      "dictValue": "军人违反职责案",
+      "subDictList": [],
+      "parentKey": "AJLBDM",
+      "level": 1,
+      "root": false,
+      "dictKey": "100000",
+      "dictType": "AJLBDM",
+      "parentType": "AJLBDM"
+    },
+    {
+      "dictValue": "侵犯公民人身权利、民主权利案",
+      "subDictList": [
+        {
+          "dictValue": "破坏民族平等、宗教信仰案",
+          "subDictList": [
+            {
+              "dictValue": "煽动民族仇恨、民族歧视案",
+              "subDictList": [],
+              "parentKey": "040300",
+              "level": 1,
+              "root": false,
+              "dictKey": "040310",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "侵犯少数民族风俗习惯案",
+              "subDictList": [],
+              "parentKey": "040300",
+              "level": 1,
+              "root": false,
+              "dictKey": "040340",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法剥夺公民宗教信仰自由案",
+              "subDictList": [],
+              "parentKey": "040300",
+              "level": 1,
+              "root": false,
+              "dictKey": "040330",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "出版歧视、侮辱少数民族作品案",
+              "subDictList": [],
+              "parentKey": "040300",
+              "level": 1,
+              "root": false,
+              "dictKey": "040320",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "040000",
+          "level": 1,
+          "root": false,
+          "dictKey": "040300",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "侵犯民主权利案",
+          "subDictList": [
+            {
+              "dictValue": "毁弃邮件电报案",
+              "subDictList": [],
+              "parentKey": "040200",
+              "level": 1,
+              "root": false,
+              "dictKey": "040240",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "报复陷害案",
+              "subDictList": [],
+              "parentKey": "040200",
+              "level": 1,
+              "root": false,
+              "dictKey": "040250",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "打击报复会计人员案",
+              "subDictList": [],
+              "parentKey": "040200",
+              "level": 1,
+              "root": false,
+              "dictKey": "040260",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "隐匿邮件电报案",
+              "subDictList": [],
+              "parentKey": "040200",
+              "level": 1,
+              "root": false,
+              "dictKey": "040230",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "打击报复统计人员案",
+              "subDictList": [],
+              "parentKey": "040200",
+              "level": 1,
+              "root": false,
+              "dictKey": "040270",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏选举案",
+              "subDictList": [],
+              "parentKey": "040200",
+              "level": 1,
+              "root": false,
+              "dictKey": "040280",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "私拆邮件案",
+              "subDictList": [],
+              "parentKey": "040200",
+              "level": 1,
+              "root": false,
+              "dictKey": "040220",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "侵犯通讯自由案",
+              "subDictList": [],
+              "parentKey": "040200",
+              "level": 1,
+              "root": false,
+              "dictKey": "040210",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "040000",
+          "level": 1,
+          "root": false,
+          "dictKey": "040200",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "其他侵犯公民人身权利，民主权利案",
+          "subDictList": [],
+          "parentKey": "040000",
+          "level": 1,
+          "root": false,
+          "dictKey": "049900",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "妨害婚姻家庭权利案",
+          "subDictList": [
+            {
+              "dictValue": "遗弃案",
+              "subDictList": [],
+              "parentKey": "040400",
+              "level": 1,
+              "root": false,
+              "dictKey": "040450",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "暴力干涉婚姻自由案",
+              "subDictList": [],
+              "parentKey": "040400",
+              "level": 1,
+              "root": false,
+              "dictKey": "040410",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "破坏军婚案",
+              "subDictList": [],
+              "parentKey": "040400",
+              "level": 1,
+              "root": false,
+              "dictKey": "040430",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "虐待案",
+              "subDictList": [],
+              "parentKey": "040400",
+              "level": 1,
+              "root": false,
+              "dictKey": "040440",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "拐骗儿童案",
+              "subDictList": [],
+              "parentKey": "040400",
+              "level": 1,
+              "root": false,
+              "dictKey": "040460",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "重婚案",
+              "subDictList": [],
+              "parentKey": "040400",
+              "level": 1,
+              "root": false,
+              "dictKey": "040420",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "040000",
+          "level": 1,
+          "root": false,
+          "dictKey": "040400",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        },
+        {
+          "dictValue": "侵犯人身权利案",
+          "subDictList": [
+            {
+              "dictValue": "拐卖妇女、儿童案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040112",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "奸淫幼女案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040106",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "绑架案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040110",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "侮辱案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040120",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "收买被拐卖的妇女、儿童案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040113",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "诬告陷害案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040119",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "强迫职工劳动案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040116",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失致人死亡案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040102",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "暴力阻碍解救被收买的妇女、儿童案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040115",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "猥亵儿童案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040108",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "偷盗婴幼儿勒索案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040111",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "虐待被监管人员案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040124",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "强奸案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040105",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "聚众阻碍解救被收买的妇女、儿童案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040114",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法搜查案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040117",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法拘禁案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040109",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "刑讯逼供案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040122",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "故意杀人案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040101",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "强制猥亵、侮辱妇女案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040107",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "非法侵入住宅案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040118",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "过失致人重伤案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040104",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "暴力取证案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040123",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "诽谤案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040121",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            },
+            {
+              "dictValue": "故意伤害案",
+              "subDictList": [],
+              "parentKey": "040100",
+              "level": 1,
+              "root": false,
+              "dictKey": "040103",
+              "dictType": "AJLBDM",
+              "parentType": "AJLBDM"
+            }
+          ],
+          "parentKey": "040000",
+          "level": 1,
+          "root": false,
+          "dictKey": "040100",
+          "dictType": "AJLBDM",
+          "parentType": "AJLBDM"
+        }
+      ],
+      "parentKey": "AJLBDM",
+      "level": 1,
+      "root": false,
+      "dictKey": "040000",
+      "dictType": "AJLBDM",
+      "parentType": "AJLBDM"
+    },
+    {
+      "dictValue": "其他类别案件",
+      "subDictList": [],
+      "parentKey": "AJLBDM",
+      "level": 1,
+      "root": false,
+      "dictKey": "900000",
+      "dictType": "AJLBDM",
+      "parentType": "AJLBDM"
+    }
+  ],
+  "level": 0,
+  "root": true,
+  "dictKey": "AJLBDM",
+  "dictType": "AJLBDM"
+}
