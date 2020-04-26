@@ -4,9 +4,9 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Parcelable;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -19,14 +19,13 @@ import com.diju.dictdemo.dict.model.Dict;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.diju.dictdemo.dict.CityListLoader.BUNDATA;
+import static com.diju.dictdemo.dict.DictListLoader.BUNDATA;
 
 public class ProvinceActivity  extends Activity {
     private Button btn_back;
 
-    private TextView mCityNameTv;
 
-    private RecyclerView mCityRecyclerView;
+    private RecyclerView dictRecyclerView;
 
     public static final int RESULT_DATA = 1001;
 
@@ -44,7 +43,7 @@ public class ProvinceActivity  extends Activity {
     private void setData() {
         dictBean = this.getIntent().getParcelableExtra(BUNDATA);
         if(dictBean == null){
-            dictList = CityListLoader.getInstance().getDictListData();
+            dictList = DictListLoader.getInstance().getDictListData();
             btn_back.setVisibility(View.INVISIBLE);
         }else {
             dictList = new ArrayList<>(dictBean.getSubDictList());
@@ -56,23 +55,25 @@ public class ProvinceActivity  extends Activity {
         }
 
         DictAdapter dictAdapter = new DictAdapter(ProvinceActivity.this, dictList);
-        mCityRecyclerView.setAdapter(dictAdapter);
+        dictRecyclerView.setAdapter(dictAdapter);
         dictAdapter.setOnItemClickListener(new CityAdapter.OnItemSelectedListener() {
             @Override
             public void onItemSelected(View view, int position) {
                 dictBean = dictList.get(position);
                 Toast.makeText(getApplicationContext(),dictBean.getDictValue(),Toast.LENGTH_SHORT).show();
-                //最叶
-                if(dictBean.getSubDictList() != null && dictBean.getSubDictList().size() >0){
+
+                if(dictBean.getSubDictList() != null && dictBean.getSubDictList().size() > 0){
                     Intent intent = new Intent(ProvinceActivity.this, ProvinceActivity.class);
-                    intent.putExtra(BUNDATA, (Parcelable) dictList.get(position));
+                    intent.putExtra(BUNDATA, (Parcelable) dictBean);
+                    Log.i("yueking-lef", dictBean.toJson());
                     startActivityForResult(intent, RESULT_DATA);
                 }else {
-                    //将计算的结果回传给第一个Activity
+                    ////最叶将计算的结果回传给第一个Activity
                     Intent reReturnIntent = new Intent();
                     reReturnIntent.putExtra("dict", (Parcelable) dictBean);
                     setResult(RESULT_DATA, reReturnIntent);
                     //
+                    Log.i("yueking", dictBean.toJson());
                     finish();
                 }
 
@@ -83,11 +84,9 @@ public class ProvinceActivity  extends Activity {
     }
 
     private void initView() {
-        mCityNameTv = (TextView) findViewById(R.id.cityname_tv);
-//        mCityNameTv.setText("选择省份");
-        mCityRecyclerView = (RecyclerView) findViewById(R.id.city_recyclerview);
-        mCityRecyclerView.setLayoutManager(new LinearLayoutManager(this));
-        mCityRecyclerView.addItemDecoration(new RecycleViewDividerForList(this, LinearLayoutManager.HORIZONTAL, true));
+        dictRecyclerView = findViewById(R.id.city_recyclerview);
+        dictRecyclerView.setLayoutManager(new LinearLayoutManager(this));
+        dictRecyclerView.addItemDecoration(new RecycleViewDividerForList(this, LinearLayoutManager.HORIZONTAL, true));
 
         btn_back = findViewById(R.id.btn_back);
         btn_back.setTypeface(MainActivity.ICON_FONT);
@@ -95,7 +94,6 @@ public class ProvinceActivity  extends Activity {
             @Override
             public void onClick(View v) {
                 finish();
-                Toast.makeText(getApplicationContext(),"ya",Toast.LENGTH_SHORT).show();
             }
         });
 

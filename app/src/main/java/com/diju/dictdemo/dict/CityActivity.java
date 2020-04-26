@@ -19,7 +19,7 @@ import com.diju.dictdemo.dict.model.Dict;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.diju.dictdemo.dict.CityListLoader.BUNDATA;
+import static com.diju.dictdemo.dict.DictListLoader.BUNDATA;
 import static com.diju.dictdemo.dict.ProvinceActivity.RESULT_DATA;
 
 public class CityActivity extends Activity {

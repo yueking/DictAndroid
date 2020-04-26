@@ -13,13 +13,12 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.diju.dictdemo.MainActivity;
 import com.diju.dictdemo.R;
-import com.diju.dictdemo.dict.model.CityInfoBean;
 import com.diju.dictdemo.dict.model.Dict;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.diju.dictdemo.dict.CityListLoader.BUNDATA;
+import static com.diju.dictdemo.dict.DictListLoader.BUNDATA;
 import static com.diju.dictdemo.dict.ProvinceActivity.RESULT_DATA;
 
 public class AreaActivity extends Activity {

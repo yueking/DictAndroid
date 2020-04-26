@@ -1,11 +1,8 @@
 package com.diju.dictdemo;
 
 import android.app.Application;
-import android.content.Context;
 
-import com.diju.dictdemo.dict.CityListLoader;
-import com.squareup.leakcanary.LeakCanary;
-import com.squareup.leakcanary.RefWatcher;
+import com.diju.dictdemo.dict.DictListLoader;
 
 public class MyApp extends Application {
     @Override
@@ -15,17 +12,17 @@ public class MyApp extends Application {
         /**
          * 预先加载一级列表所有城市的数据
          */
-//        CityListLoader.getInstance().loadCityData(this);
+//        DictListLoader.getInstance().loadCityData(this);
 
         /**
          * 预先加载三级列表显示省市区的数据
          */
-//        CityListLoader.getInstance().loadProData(this);
+//        DictListLoader.getInstance().loadProData(this);
 
         /**
          * 预先加载字典数据
          */
-        CityListLoader.getInstance().loadDictData(this);
+        DictListLoader.getInstance().loadDictData(this);
 //        refWatcher = LeakCanary.install(this);
     }
 
