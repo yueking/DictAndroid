@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.diju.dictdemo.dict.ProvinceActivity;
+import com.diju.dictdemo.dict.DictActivity;
 import com.diju.dictdemo.dict.model.Dict;
 
 public class MainActivity extends AppCompatActivity {
@@ -33,30 +33,27 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-
     }
 
     public void list() {
-        Intent intent = new Intent(MainActivity.this, ProvinceActivity.class);
-        startActivityForResult(intent, ProvinceActivity.RESULT_DATA);
+        Intent intent = new Intent(MainActivity.this, DictActivity.class);
+        startActivityForResult(intent, DictActivity.RESULT_DATA);
 
     }
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
-        if (requestCode == ProvinceActivity.RESULT_DATA) {
-            if (resultCode == RESULT_OK) {
-                if (data == null) {
-                    return;
-                }
-
-                Dict dict = data.getParcelableExtra("dict");
-                String result = dict.getDictKey()+":"+dict.getDictValue();
-                Toast.makeText(this, result,Toast.LENGTH_LONG).show();
-                result_tv.setText(result);
+        if (requestCode == DictActivity.RESULT_DATA) {
+            if (data == null) {
+                return;
             }
 
+            Dict dict = data.getParcelableExtra("dict");
+            String result = dict.getDictKey() + ":" + dict.getDictValue();
+            Toast.makeText(this, result, Toast.LENGTH_LONG).show();
+            result_tv.setText(result);
         }
+
     }
 }

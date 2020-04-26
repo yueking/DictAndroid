@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static com.diju.dictdemo.dict.DictListLoader.BUNDATA;
-import static com.diju.dictdemo.dict.ProvinceActivity.RESULT_DATA;
+import static com.diju.dictdemo.dict.DictActivity.RESULT_DATA;
 
 public class CityActivity extends Activity {
 
@@ -36,7 +36,7 @@ public class CityActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_citylist);
+        setContentView(R.layout.activity_dictlist);
         dictBean = this.getIntent().getParcelableExtra(BUNDATA);
         initView();
         setData(dictBean);

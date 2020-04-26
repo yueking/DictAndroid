@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Parcelable;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -21,7 +20,7 @@ import java.util.List;
 
 import static com.diju.dictdemo.dict.DictListLoader.BUNDATA;
 
-public class ProvinceActivity  extends Activity {
+public class DictActivity extends Activity {
     private Button btn_back;
 
 
@@ -30,22 +29,22 @@ public class ProvinceActivity  extends Activity {
     public static final int RESULT_DATA = 1001;
 
     private Dict dictBean = null;
-    private List<Dict> dictList=null;
+    private List<Dict> dictList = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_citylist);
+        setContentView(R.layout.activity_dictlist);
         initView();
         setData();
     }
 
     private void setData() {
         dictBean = this.getIntent().getParcelableExtra(BUNDATA);
-        if(dictBean == null){
+        if (dictBean == null) {
             dictList = DictListLoader.getInstance().getDictListData();
             btn_back.setVisibility(View.INVISIBLE);
-        }else {
+        } else {
             dictList = new ArrayList<>(dictBean.getSubDictList());
             btn_back.setVisibility(View.VISIBLE);
         }
@@ -54,26 +53,25 @@ public class ProvinceActivity  extends Activity {
             return;
         }
 
-        DictAdapter dictAdapter = new DictAdapter(ProvinceActivity.this, dictList);
+        DictAdapter dictAdapter = new DictAdapter(DictActivity.this, dictList);
         dictRecyclerView.setAdapter(dictAdapter);
         dictAdapter.setOnItemClickListener(new CityAdapter.OnItemSelectedListener() {
             @Override
             public void onItemSelected(View view, int position) {
                 dictBean = dictList.get(position);
-                Toast.makeText(getApplicationContext(),dictBean.getDictValue(),Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), dictBean.getDictValue(), Toast.LENGTH_SHORT).show();
 
-                if(dictBean.getSubDictList() != null && dictBean.getSubDictList().size() > 0){
-                    Intent intent = new Intent(ProvinceActivity.this, ProvinceActivity.class);
+                if (dictBean.getSubDictList() != null && dictBean.getSubDictList().size() > 0) {
+                    //根枝 把数据传送继续显示子列表
+                    Intent intent = new Intent(DictActivity.this, DictActivity.class);
                     intent.putExtra(BUNDATA, (Parcelable) dictBean);
-                    Log.i("yueking-lef", dictBean.toJson());
                     startActivityForResult(intent, RESULT_DATA);
-                }else {
-                    ////最叶将计算的结果回传给第一个Activity
+                } else {
+                    //叶节点将计算的结果回返回
                     Intent reReturnIntent = new Intent();
                     reReturnIntent.putExtra("dict", (Parcelable) dictBean);
-                    setResult(RESULT_OK, reReturnIntent);
+                    setResult(RESULT_DATA, reReturnIntent);
                     //
-                    Log.i("yueking", dictBean.toJson());
                     finish();
                 }
 
@@ -106,7 +104,7 @@ public class ProvinceActivity  extends Activity {
             Dict dict = data.getParcelableExtra("dict");
             Intent intent = new Intent();
             intent.putExtra("dict", (Parcelable) dict);
-            setResult(RESULT_OK, intent);
+            setResult(RESULT_DATA, intent);
             finish();
         }
     }
