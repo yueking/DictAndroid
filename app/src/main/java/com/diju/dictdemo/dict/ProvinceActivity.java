@@ -71,7 +71,7 @@ public class ProvinceActivity  extends Activity {
                     ////最叶将计算的结果回传给第一个Activity
                     Intent reReturnIntent = new Intent();
                     reReturnIntent.putExtra("dict", (Parcelable) dictBean);
-                    setResult(RESULT_DATA, reReturnIntent);
+                    setResult(RESULT_OK, reReturnIntent);
                     //
                     Log.i("yueking", dictBean.toJson());
                     finish();
