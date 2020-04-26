@@ -19,10 +19,10 @@ public class DictAdapter extends RecyclerView.Adapter<DictAdapter.MyViewHolder> 
 
     Context context;
 
-    private CityAdapter.OnItemSelectedListener mOnItemClickListener;
+    private DictAdapter.OnItemSelectedListener onItemClickListener;
 
-    public void setOnItemClickListener(CityAdapter.OnItemSelectedListener onItemClickListener) {
-        mOnItemClickListener = onItemClickListener;
+    public void setOnItemClickListener(DictAdapter.OnItemSelectedListener onItemClickListener) {
+        this.onItemClickListener = onItemClickListener;
     }
 
     public interface OnItemSelectedListener {
@@ -43,7 +43,7 @@ public class DictAdapter extends RecyclerView.Adapter<DictAdapter.MyViewHolder> 
     @Override
     public DictAdapter.MyViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         DictAdapter.MyViewHolder holder = new DictAdapter.MyViewHolder(
-                LayoutInflater.from(context).inflate(R.layout.item_citylist, parent, false));
+                LayoutInflater.from(context).inflate(R.layout.item_dictlist, parent, false));
         return holder;
     }
 
@@ -53,8 +53,8 @@ public class DictAdapter extends RecyclerView.Adapter<DictAdapter.MyViewHolder> 
         holder.tv.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (mOnItemClickListener != null && position < dictList.size()) {
-                    mOnItemClickListener.onItemSelected(v, position);
+                if (onItemClickListener != null && position < dictList.size()) {
+                    onItemClickListener.onItemSelected(v, position);
                 }
             }
         });

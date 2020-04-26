@@ -55,7 +55,7 @@ public class DictActivity extends Activity {
 
         DictAdapter dictAdapter = new DictAdapter(DictActivity.this, dictList);
         dictRecyclerView.setAdapter(dictAdapter);
-        dictAdapter.setOnItemClickListener(new CityAdapter.OnItemSelectedListener() {
+        dictAdapter.setOnItemClickListener(new DictAdapter.OnItemSelectedListener() {
             @Override
             public void onItemSelected(View view, int position) {
                 dictBean = dictList.get(position);
