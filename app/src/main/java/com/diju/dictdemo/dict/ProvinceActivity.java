@@ -60,16 +60,22 @@ public class ProvinceActivity  extends Activity {
         dictAdapter.setOnItemClickListener(new CityAdapter.OnItemSelectedListener() {
             @Override
             public void onItemSelected(View view, int position) {
-
                 dictBean = dictList.get(position);
-//                dictBean.setDictKey(dictList.get(position).getDictKey());
-//                dictBean.setDictValue(dictList.get(position).getDictValue());
-                Intent intent = new Intent(ProvinceActivity.this, ProvinceActivity.class);
-                intent.putExtra(BUNDATA, (Parcelable) dictList.get(position));
-
-                startActivityForResult(intent, RESULT_DATA);
-
                 Toast.makeText(getApplicationContext(),dictBean.getDictValue(),Toast.LENGTH_SHORT).show();
+                //最叶
+                if(dictBean.getSubDictList() != null && dictBean.getSubDictList().size() >0){
+                    Intent intent = new Intent(ProvinceActivity.this, ProvinceActivity.class);
+                    intent.putExtra(BUNDATA, (Parcelable) dictList.get(position));
+                    startActivityForResult(intent, RESULT_DATA);
+                }else {
+                    //将计算的结果回传给第一个Activity
+                    Intent reReturnIntent = new Intent();
+                    reReturnIntent.putExtra("dict", (Parcelable) dictBean);
+                    setResult(RESULT_DATA, reReturnIntent);
+                    //
+                    finish();
+                }
+
 
             }
         });
