@@ -13,9 +13,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class utils {
-    String cityJsonStr = "";
-
+public class Utils {
     //读取方法
     public static String getJson(Context context, String fileName) {
         StringBuilder stringBuilder = new StringBuilder();
@@ -34,10 +32,6 @@ public class utils {
     }
 
     public static void setBackgroundAlpha(Context mContext, float bgAlpha) {
-//        WindowManager.LayoutParams lp = ((Activity) mContext).getWindow().getAttributes();
-//        lp.alpha = bgAlpha;
-//        ((Activity) mContext).getWindow().setAttributes(lp);
-
         if (bgAlpha == 1f) {
             clearDim((Activity) mContext);
         }else{

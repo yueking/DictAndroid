@@ -46,7 +46,7 @@ public class DictListLoader {
      * @param context
      */
     public void loadDictData(Context context){
-        String dictJson = utils.getJson(context, Constant.DICT_DATA);
+        String dictJson = Utils.getJson(context, Constant.DICT_DATA);
         Dict dict = Dict.parseJson(dictJson);
         dictListData = new ArrayList<>(dict.getSubDictList());
     }
